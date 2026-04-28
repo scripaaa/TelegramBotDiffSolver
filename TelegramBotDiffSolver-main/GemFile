@@ -1,6 +1,0 @@
-source "https://rubygems.org"
-
-gem "diff_solver", path: "./diff_solver"
-gem "telegram-bot-ruby", "~> 0.19"
-gem "dotenv", "~> 2.8"
-gem "ostruct"
